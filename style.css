@@ -19,3 +19,7 @@ img{
 	height: 103px;
 	width: 100px;
 }
+
+header{
+	background-color: rgba(255, 35, 0, 0.65);
+}
